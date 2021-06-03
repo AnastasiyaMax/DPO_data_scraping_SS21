@@ -10,6 +10,6 @@ DPO DA specialization, web scraping course
 * Selenium для парсинга сложных источников
 * Продолжение Selenium для парсинга сложных источников, работа с базами данных в Python
 
-Формула оценки: ```math
-\frac{1}{3}
-```
+**Формула оценки:** 1/3 * Проект по парсингу + 1/3 * Проект с API + 1/3 * Проект с Selenium
+
+* [Проект по парсингу](https://docs.google.com/document/d/1kZEGSzVFXD3HruuycwIwEMwDzDjEysvGpDQ5XlaTEeA/edit?usp=sharing) 
