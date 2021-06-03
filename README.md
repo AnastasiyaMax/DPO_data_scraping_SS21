@@ -1,4 +1,4 @@
-# DPO_web_scraping_SS21
+# DPO_data_scraping_SS21
 Материалы курса "Сбор данных на Python" ДПО НИУ ВШЭ
 
 Программа:
