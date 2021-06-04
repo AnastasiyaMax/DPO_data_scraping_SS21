@@ -12,4 +12,6 @@
 
 **Формула оценки:** 1/3 * Проект по парсингу + 1/3 * Проект с API + 1/3 * Проект с Selenium
 
-* [Проект по парсингу](https://docs.google.com/document/d/1kZEGSzVFXD3HruuycwIwEMwDzDjEysvGpDQ5XlaTEeA/edit?usp=sharing), дедлайн: TBA
+* [Проект-1 по парсингу](https://docs.google.com/document/d/1kZEGSzVFXD3HruuycwIwEMwDzDjEysvGpDQ5XlaTEeA/edit?usp=sharing), дедлайн: 13 июня в 23:00
+* Проект-2 с API, дедлайн: 20 июня в 23:00
+* Проект-3 с Selenium, дедлайн: 27 июня в 23:00
