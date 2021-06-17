@@ -14,4 +14,4 @@
 
 * [Проект 1: парсинг](https://docs.google.com/document/d/1kZEGSzVFXD3HruuycwIwEMwDzDjEysvGpDQ5XlaTEeA/edit?usp=sharing), **дедлайн:** 13 июня в 23:00
 * [Проект 2: API](https://docs.google.com/document/d/1MYVTHGum0NGG0OhxXTeUr9XVwKNn4V_j7XcUKngPOuY/edit?usp=sharing), **дедлайн:** 20 июня в 23:00
-* Проект 3: Selenium, **дедлайн:** 27 июня в 23:00
+* [Проект 3: Selenium](https://docs.google.com/document/d/1yBJvv6uTxj6O37HFar6pL4DPRYcWJV2vql08dDSWMO8/edit?usp=sharing), **дедлайн:** 27 июня в 23:00
